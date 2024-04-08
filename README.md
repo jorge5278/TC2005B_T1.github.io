@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +5,7 @@
     <title>Index</title>
 </head>
 <body>
-    <u><a href="./T1_Html.html"> T1 </u></a>
+    <a href="./T1_Html.html"> T1 </a>
   
 </body>
 </html>
