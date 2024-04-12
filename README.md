@@ -6,6 +6,8 @@
 </head>
 <body>
     <a href="./T1_Html.html"> T1 </a>
+    <a href="./T1_index (1).html"> T2 </a>
+
   
 </body>
 </html>
